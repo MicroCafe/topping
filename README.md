@@ -23,3 +23,9 @@ As part of my journey to implement [Microservice Challenge](https://github.com/E
 - [Microservices: Decomposing Applications](https://www.infoq.com/articles/microservices-intro)
 - [Tools and Techniques](https://dzone.com/articles/tools-and-techniques-to-build-microservices)
 
+### Examples
+
+- [microservices-examples](https://github.com/cer/microservices-examples)
+- [coolstore-microservice](https://github.com/jbossdemocentral/coolstore-microservice)
+- [cloudee-duke](https://github.com/ivargrimstad/cloudee-duke)
+- [microservices-by-example-source](https://github.com/redhat-developer/microservices-by-example-source)
