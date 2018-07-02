@@ -4,6 +4,10 @@ A curated list of microservices related resources
 
 As part of my journey to implement [Microservice Challenge](https://github.com/ERS-HCL/microservice-challenge) I have came across various useful resources on microservices. I am sharing those to create a awesome list of microservice resources.
 
+### Starters
+
+- [Microservice Starter with\[out\] Spring Boot](https://dzone.com/articles/building-microservices-without-spring-boot)
+- [Microservice Starter with Wildfly Swarm](https://dzone.com/articles/building-microservices-with-wildfly-swarm)
 
 ### Guides
 
