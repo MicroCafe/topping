@@ -33,3 +33,10 @@ As part of my journey to implement [Microservice Challenge](https://github.com/E
 - [coolstore-microservice](https://github.com/jbossdemocentral/coolstore-microservice)
 - [cloudee-duke](https://github.com/ivargrimstad/cloudee-duke)
 - [microservices-by-example-source](https://github.com/redhat-developer/microservices-by-example-source)
+
+### Frameworks
+- [Evantuate](http://eventuate.io)
+- [Cheddar](https://github.com/travel-cloud/Cheddar)
+- [Hystrix](https://github.com/Netflix/Hystrix)
+- [Ribbon](https://github.com/Netflix/ribbon)
+
