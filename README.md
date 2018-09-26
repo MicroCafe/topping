@@ -35,8 +35,10 @@ As part of my journey to implement [Microservice Challenge](https://github.com/E
 - [microservices-by-example-source](https://github.com/redhat-developer/microservices-by-example-source)
 
 ### Frameworks
+- [Spring Boot](http://spring.io/projects/spring-boot)
+- [Netflix OSS](https://github.com/Netflix/)
 - [Evantuate](http://eventuate.io)
 - [Cheddar](https://github.com/travel-cloud/Cheddar)
-- [Hystrix](https://github.com/Netflix/Hystrix)
-- [Ribbon](https://github.com/Netflix/ribbon)
+
+
 
